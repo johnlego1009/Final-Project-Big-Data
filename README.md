@@ -7,7 +7,6 @@ Open Ubuntu
 cd /mnt/c/Users/nicholas/Downloads/big_data_v2/'big data'
 source venv/bin/activate
 python eval.py
-
 ```
 
 ## Submission Format
