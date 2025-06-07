@@ -61,6 +61,6 @@ best_submission = pd.DataFrame({
     "id": ids,
     "label": best_labels
 })
-best_submission.to_csv("public_submission.csv", index=False)
+best_submission.to_csv("last.csv", index=False)
 
 print(f"\n🏁 最終最佳結果（Seed {seed}）：Score = {best_score:.4f}")
