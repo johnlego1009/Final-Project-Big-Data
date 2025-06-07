@@ -1,27 +1,16 @@
 # Final Project - Big Data
 
-## Set Up
+## My Set Up
 
 ```
-conda create --name your_env_name python=3.10
-conda activate your_env_name
-pip install pandas
+Open Ubuntu
+cd /mnt/c/Users/nicholas/Downloads/big_data_v2/'big data'
+source venv/bin/activate
+python eval.py
+
 ```
 
 ## Submission Format
-
-Please provide a zip file with this structure:
-
-```
-r119020XX/
-|- main.py # your code for clustering
-|- r119020XX_public.csv # for evaluation on the public dataset
-|- r119020XX_private.csv # for evaluation on the private dataset
-|_ r119020XX_report.pdf
-
-
-
-```
 
 Each file should follow the format below:
 
